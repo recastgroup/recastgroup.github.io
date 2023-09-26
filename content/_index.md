@@ -3,9 +3,13 @@ mainSectionsTitle = ""
 author = ""
 +++
 
-## Research and Exploration of Culturally Affirming Self-Teaching
+## {{< fa dice-d20 >}} Research and Exploration of Culturally Affirming Self-Teaching
 
 We are the *Research and Exploration of Culturally Affirming Self-Teaching* (**RECAST**) group, a research team gathered and led by [Dr. Bret Staudt Willet]. We are based in the Instructional Systems and Learning Technologies ([ISLT]) program at Florida State University, but our contributors and collaborators are global in scope.
+
+While RECAST is an acronym, we also appreciate the play-on-words. In tabletop games like *Dungeons & Dragons*, the D20 {{< fa dice-d20 >}} (i.e., 20-sided die) is rolled (i.e., cast) to determine the success of an action. In some cases, there may be an opportunity to retry the roll &mdash; that is, **recast** the die. 
+
+Similarly, self-directed learning is marked by iteration through trial-and-error, design-and-test &mdash; figuring things out by trying and trying again. In this way, the D20 {{< fa dice-d20 >}} and the ability to **recast** are fitting symbols of self-directed learning.
 
 ![Research Areas](/images/recast.png)
 
@@ -13,15 +17,13 @@ We are the *Research and Exploration of Culturally Affirming Self-Teaching* (**R
 
 ---
 
-## Research Areas
+## {{< fa magnifying-glass >}} Research Areas
 
-Broadly, our research investigates self-directed and inclusive dimensions of education. This focus covers two areas:
-
-### Self-Directed Learning
-
-### Culturally Sustaining Instructional Design
+In response to ongoing and ever-emerging professional learning challenges, teachers (and other professionals such as medical workers and game developers) often initiate and guide their own professional development through **self-directed learning** (SDL). Furthermore, scholarship on **culturally sustaining practices** (CSP) illuminates methods for overcoming challenges in professional practice through centering the experiences and perspectives of learners &mdash; making learning relevant to, responsive to, and sustaining of the cultural practices of learners across categories of difference.
 
 ---
+
+## {{< fa people-arrows >}} Connect
 
 We appreciate that you're here, visiting our digital home. While you're here, check out some of our [projects] and the latest [news]. We'd also love for you to connect with us by [email].
 
@@ -29,9 +31,13 @@ Let's work on something together soon!
 
 ---
 
-## Land Acknowledgement
+## {{< fa image >}} Land Acknowledgement
 
 ![Tallahassee Native Land](/images/land.png)
+
+*Image taken by Bret Staudt Willet at Lake Jackson Mounds Archaeological State Park in Tallahassee, Florida*
+
+
 
 ### We Honor Native Land
 
