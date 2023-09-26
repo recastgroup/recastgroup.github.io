@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>index on RECAST Group</title>
-    <link>https://recastgroup.github.io/tags/index/</link>
+    <link>https://recast.team/tags/index/</link>
     <description>Recent content in index on RECAST Group</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://recastgroup.github.io/tags/index/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://recast.team/tags/index/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Posts</title>
-      <link>https://recastgroup.github.io/post/</link>
+      <link>https://recast.team/post/</link>
       <pubDate>Wed, 30 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://recastgroup.github.io/post/</guid>
+      <guid>https://recast.team/post/</guid>
       
         <description></description>
       
