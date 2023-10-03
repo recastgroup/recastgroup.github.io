@@ -3,6 +3,10 @@ mainSectionsTitle = ""
 author = ""
 +++
 
+<head>
+  <link rel=icon href=https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6/svgs/solid/dice-d20.svg>
+</head>
+
 ## {{< fa dice-d20 >}} Research and Exploration of Culturally Affirming Self-Teaching
 
 We are the *Research and Exploration of Culturally Affirming Self-Teaching* (**RECAST**) group, a research team gathered and led by [Dr. Bret Staudt Willet]. We are based in the Instructional Systems and Learning Technologies ([ISLT]) program at Florida State University, but our contributors and collaborators are global in scope.
