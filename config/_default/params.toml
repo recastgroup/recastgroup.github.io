@@ -10,7 +10,7 @@ profilePicture = "images/d20.png"
 keywords = "self-directed learning, culturally sustaining practices"
 copyright = "[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) {{ YEAR }}"
 
-mainSections = []
+mainSecthuons = []
 contentratio = 0.7
 hidesidebar = false  # hidesd the sidebar on content pages
 #images = ["images/site-feature-image.png"]

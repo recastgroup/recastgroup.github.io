@@ -7,9 +7,9 @@ author = ""
   <link rel=icon href=https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6/svgs/solid/dice-d20.svg>
 </head>
 
-## {{< fa dice-d20 >}} Research and Exploration of Culturally Affirming Self-Teaching
+## {{< fa dice-d20 >}} Research and Exploration of Context-Aware Self-Teaching
 
-We are the *Research and Exploration of Culturally Affirming Self-Teaching* (**RECAST**) group, a research team gathered and led by [Dr. Bret Staudt Willet]. We are based in the Instructional Systems and Learning Technologies ([ISLT]) program at Florida State University, but our contributors and collaborators are global in scope.
+We are the *Research and Exploration of Context-Aware Self-Teaching* (**RECAST**) group, a research team gathered and led by [Dr. Bret Staudt Willet]. We are based in the Instructional Systems and Learning Technologies ([ISLT]) program at Florida State University, but our contributors and collaborators are global in scope.
 
 While RECAST is an acronym, we also appreciate the play-on-words. In tabletop games like *Dungeons & Dragons*, the D20 {{< fa dice-d20 >}} (i.e., 20-sided die) is rolled (i.e., cast) to determine the success of an action. In some cases, there may be an opportunity to retry the roll &mdash; that is, **recast** the die. 
 
