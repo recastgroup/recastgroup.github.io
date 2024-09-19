@@ -8,7 +8,7 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 30 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://recast.team/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>affinity spaces</title>
+      <title>Affinity Spaces</title>
       <link>https://recast.team/tags/affinity-spaces/</link>
       <pubDate>Wed, 30 Nov 2022 00:00:00 +0000</pubDate>
       
@@ -19,7 +19,7 @@
     </item>
     
     <item>
-      <title>anonymity</title>
+      <title>Anonymity</title>
       <link>https://recast.team/tags/anonymity/</link>
       <pubDate>Wed, 30 Nov 2022 00:00:00 +0000</pubDate>
       
@@ -30,7 +30,18 @@
     </item>
     
     <item>
-      <title>new paper</title>
+      <title>Index</title>
+      <link>https://recast.team/tags/index/</link>
+      <pubDate>Wed, 30 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://recast.team/tags/index/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>New Paper</title>
       <link>https://recast.team/tags/new-paper/</link>
       <pubDate>Wed, 30 Nov 2022 00:00:00 +0000</pubDate>
       
@@ -52,7 +63,7 @@
     </item>
     
     <item>
-      <title>social media</title>
+      <title>Social Media</title>
       <link>https://recast.team/tags/social-media/</link>
       <pubDate>Wed, 30 Nov 2022 00:00:00 +0000</pubDate>
       
@@ -63,7 +74,7 @@
     </item>
     
     <item>
-      <title>analytics</title>
+      <title>Analytics</title>
       <link>https://recast.team/tags/analytics/</link>
       <pubDate>Fri, 22 Apr 2022 00:00:00 +0000</pubDate>
       
@@ -74,7 +85,7 @@
     </item>
     
     <item>
-      <title>data</title>
+      <title>Data</title>
       <link>https://recast.team/tags/data/</link>
       <pubDate>Fri, 22 Apr 2022 00:00:00 +0000</pubDate>
       
@@ -85,7 +96,7 @@
     </item>
     
     <item>
-      <title>padlet</title>
+      <title>Padlet</title>
       <link>https://recast.team/tags/padlet/</link>
       <pubDate>Fri, 22 Apr 2022 00:00:00 +0000</pubDate>
       
@@ -96,7 +107,7 @@
     </item>
     
     <item>
-      <title>tools</title>
+      <title>Tools</title>
       <link>https://recast.team/tags/tools/</link>
       <pubDate>Fri, 22 Apr 2022 00:00:00 +0000</pubDate>
       
@@ -107,7 +118,7 @@
     </item>
     
     <item>
-      <title>learning analytics</title>
+      <title>Learning Analytics</title>
       <link>https://recast.team/tags/learning-analytics/</link>
       <pubDate>Thu, 25 Feb 2021 00:00:00 +0000</pubDate>
       
@@ -118,7 +129,7 @@
     </item>
     
     <item>
-      <title>open science</title>
+      <title>Open Science</title>
       <link>https://recast.team/tags/open-science/</link>
       <pubDate>Thu, 25 Feb 2021 00:00:00 +0000</pubDate>
       
@@ -129,22 +140,11 @@
     </item>
     
     <item>
-      <title>privacy</title>
+      <title>Privacy</title>
       <link>https://recast.team/tags/privacy/</link>
       <pubDate>Thu, 25 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>https://recast.team/tags/privacy/</guid>
-      
-        <description></description>
-      
-    </item>
-    
-    <item>
-      <title>index</title>
-      <link>https://recast.team/tags/index/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://recast.team/tags/index/</guid>
       
         <description></description>
       

@@ -24,11 +24,13 @@ I frequently investigate self-directed learning with the tools of educational da
 
 I hold a Ph.D. in Educational Psychology & Educational Technology, a Master’s Degree in Educational Technology, and a Graduate Certificate in Serious Game Design & Research from Michigan State University, as well as a dual bachelor’s degree in Mathematics and Sociology from Bucknell University.
 
-[{{< fa globe >}} Visit Dr. Bret's website](https://bretsw.com) | 
-[{{< fa file-download >}} Download CV](https://www.fsu.edu/cvdb/KSTAUDTWILLET.rtf?0=) | 
-[{{< fa fab linkedin >}} Linkedin](https://www.linkedin.com/in/bretsw/)
+[{{< fa globe >}} Website](https://bretsw.com) | 
+[{{< fa fab linkedin >}} Linkedin](https://www.linkedin.com/in/bretsw/) | 
+[{{< fa file-download >}} Download CV](https://www.fsu.edu/cvdb/KSTAUDTWILLET.rtf?0=)
 
 ---
+
+
 
 ## Hunhui Na
 
@@ -38,7 +40,12 @@ I am a Ph.D. student in the Instructional Systems & Learning Technologies (ISLT)
 
 My current research focuses on educators’ use of social media. Specifically, I investigate how and why early career teachers (including pre-service teachers) participate in online communities for their professional learning, and how to leverage the affordances of social media to support their professional development. Related to the use of social media for learning, I am also interested in Scratch where students can develop computational thinking skills online. Viewing Scratch as an online community for students, I explore how students’ interactions are related to developing their computational thinking skills. Designing immersive learning environments for STEM+CS education is my other research interest. Specifically, I am interested in designing Augmented Reality learning experiences for mathematics and computer science education, and understanding teachers’ role in integrating immersive technology in classroom contexts.
 
+[{{< fa globe >}} Website](https://hunhuina.wixsite.com/home) | 
+[{{< fa fab linkedin >}} Linkedin](https://www.linkedin.com/in/hunhuina/)
+
 ---
+
+
 
 ## Jaesung Hur
 
@@ -52,22 +59,32 @@ I am interested in instructors’ and learners’ engagement in online teaching 
 
 I am currently involved in projects on instructors’ perception of students’ participation, students’ feelings of othering, webcam usages, college students’ social media use and emotion, teaching assistants’ challenges and training needs, and instructional designers’ perception and experiences in learning analytics. I also plan to examine students’ minimal participation, TAs’ self-efficacy, online memes, and students’ motivation and emotions using epistemic network analysis (ENA).
 
-[{{< fa fab twitter >}} @jaesssung](https://twitter.com/jaesssung) | 
+[{{< fa fab x >}} @jaesssung](https://x.com/jaesssung) | 
 [{{< fa fab linkedin >}} Linkedin](https://www.linkedin.com/in/jaesung-hur-679a791ab/)
+
+
 
 ---
 
-## Jiabei Xu
+## Chaewon Kim
 
-<img src="/images/jiabei-xu.jpg" width="240" alt="Headshot of Jiabei Xu">
+<img src="/images/chaewon-kim.jpg" width="240" alt="Headshot of Chaewon Kim">
 
-I am a Ph.D. student in the Instructional Systems & Learning Technologies (ISLT) program at Florida State University College of Education. 
+I am a doctoral student in Instructional Systems and Learning Technologies at Florida State University (FSU). With a Bachelor's degree in Elementary Education and a Master's in Educational Technology and Administration, my research focuses on designing meaningful learning experiences to solve real-world problems, primarily using games, and investigating their impact using educational data mining methods. Specifically, my recent research is investigating the collaborative problem-solving process in escape rooms in the context of nursing education. I have presented and published multiple scholarly works in the International Journal of Instruction, the Journal of Research on Technology in Education, and the International Journal of Information and Education Technology. I am also involved in several educational research projects encompassing topics such as designing a care ecosystem to support individuals with neurodiversity in rural areas, designing a game-based cognitive task planner, and developing a game for adults to raise awareness of mindful and intuitive eating. My endeavor in instructional design and research was recognized by a nomination for an undergraduate research opportunity program best mentor award, individual travel grants totaling $5,100, and winning instructional design competitions, including the Design and Development competition sponsored by NATO ACT in 2023 and 2024. As an active member of the American Educational Research Association (AERA), the Association of Educational Communications and Technology (AECT), and the International Society of Learning Sciences (ISLS), I strive to contribute to the academic community. I am also engaged in the Instructional Systems Student Organization (ISSA) at FSU, serving as a treasurer and a vice president for two consecutive years within the department.
 
-My research interest integrated instructional design, game-based learning, and learning analytics in training and professional development for graduate teaching assistants (GTA) in higher education. My current focus is designing and applying game-based adaptive training environments for GTA teaching preparation and professional development. I am conducting individual research and working collaboratively with my peers on this topic. I have been working as the TA for online courses in our department for the past semesters; meanwhile, I have been working with my advisor Dr. Fengfeng Ke on several NSF-funded projects in game-based mathematical education in K-12 settings. My current research agenda for my dissertation consists of 1. The study of game-based adaptive training design for GTA (ongoing), 2. Learning analytics in GTA informal learning in the online community of practice (Co.P.), 3. The application of learning analytics results in the iteration of adaptive training design for GTAs.
+[{{< fa globe >}} Website](https://sites.google.com/view/chaewonkimphd/) | 
+[{{< fa fab linkedin >}} Linkedin](https://www.linkedin.com/in/chaewon-kim-053867225/)
 
-Before joining the ISLT Ph.D. program in 2021, I gained two Master’s degrees in Second Language Education (2015) and Instructional Systems & Learning Technologies (2020) from FSU.
+---
 
-[{{< fa fab twitter >}} @JiabeiB](https://twitter.com/JiabeiB) | 
-[{{< fa fab linkedin >}} Linkedin](https://www.linkedin.com/in/jx13/)
+
+
+## Hilal Ayan Karabatman
+
+<img src="/images/hilal-ayan-karabatman.png" width="240" alt="Headshot of Hilal Ayan Karabatman">
+
+I am an emerging scholar and educator, currently pursuing my Ph.D. in ISLT. My research is grounded in my deep interest in informal learning, self-directed learning, communities of practice, and online and distance learning in higher education contexts. I am particularly focused on understanding how learners navigate formal and informal learning environments and how instructional design and technologies can empower learners and foster agencies. Currently, I am involved in several research projects, including studies on social media’s role in learning, webcam use by learning professionals, online communities of practices for teachers, news consumption patterns of youth, professional and scholarly development of graduate students, and STEM education outreach. Alongside my research, I have gained diverse teaching experience as a graduate teaching assistant at both Florida State University and Bogazici University, where I helped design and deliver courses at both undergraduate and graduate levels.
+
+[{{< fa fab linkedin >}} Linkedin](https://www.linkedin.com/in/hilal-ayan-karabatman-602196190/)
 
 ---
