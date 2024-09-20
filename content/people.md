@@ -88,3 +88,16 @@ I am an emerging scholar and educator, currently pursuing my Ph.D. in ISLT. My r
 [{{< fa fab linkedin >}} Linkedin](https://www.linkedin.com/in/hilal-ayan-karabatman-602196190/)
 
 ---
+
+
+
+## Damilare Ajayi
+
+<img src="/images/damilare-ajayi.jpg" width="240" alt="Headshot of Damilare Ajayi">
+
+I am an emerging scholar and educator, currently pursuing my Ph.D. in ISLT. My research is grounded in my deep interest in informal learning, self-directed learning, communities of practice, and online and distance learning in higher education contexts. I am particularly focused on understanding how learners navigate formal and informal learning environments and how instructional design and technologies can empower learners and foster agencies. Currently, I am involved in several research projects, including studies on social media’s role in learning, webcam use by learning professionals, online communities of practices for teachers, news consumption patterns of youth, professional and scholarly development of graduate students, and STEM education outreach. Alongside my research, I have gained diverse teaching experience as a graduate teaching assistant at both Florida State University and Bogazici University, where I helped design and deliver courses at both undergraduate and graduate levels.
+
+[{{< fa fab linkedin >}} Linkedin](https://www.linkedin.com/in/ajayidamilarefelix/) | 
+[{{< fa fas comments >}} Book a Meeting](https://cal.com/damilareajayi ) 
+
+---
