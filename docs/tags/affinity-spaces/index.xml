@@ -1,22 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Affinity Spaces on RECAST Group</title>
-    <link>https://recast.team/tags/affinity-spaces/</link>
-    <description>Recent content in Affinity Spaces on RECAST Group</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 30 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://recast.team/tags/affinity-spaces/index.xml" rel="self" type="application/rss+xml" />
+    <title>Affinity Spaces on RECAST Team</title>
+    <link>https://recastgroup.github.io/tags/affinity-spaces/</link>
+    <description>Recent content in Affinity Spaces on RECAST Team</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 30 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://recastgroup.github.io/tags/affinity-spaces/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>New paper: Affinity and anonymity benefitting early career teachers in the r/teachers subreddit</title>
-      <link>https://recast.team/post/new-paper-affinity-anonymity-reddit/</link>
+      <link>https://recastgroup.github.io/news/2022-11-30-new-paper-reddit/</link>
       <pubDate>Wed, 30 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://recast.team/post/new-paper-affinity-anonymity-reddit/</guid>
-      
-        <description>Background Hunhui Na and Dr. Bret Staudt Willet recently co-authored an article titled &amp;ldquo;Affinity and anonymity benefitting early career teachers in the r/teachers subreddit&amp;rdquo; in the Journal of Research on Technology in Education.</description>
-      
+      <guid>https://recastgroup.github.io/news/2022-11-30-new-paper-reddit/</guid>
+      <description>Background Hunhui Na and Dr. Bret Staudt Willet recently co-authored an article titled &amp;ldquo;Affinity and anonymity benefitting early career teachers in the r/teachers subreddit&amp;rdquo; in the Journal of Research on Technology in Education.&#xA;Here is the abstract for our article:&#xA;Early career teachers experience numerous challenges during their transition into the profession. Reddit is a social media platform that allows users to gather around shared affinity while remaining anonymous. This study explores how early career teachers participate in the r/Teachers subreddit through posts tagged as “New Teacher” content.</description>
     </item>
-    
   </channel>
 </rss>

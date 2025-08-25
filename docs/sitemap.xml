@@ -2,69 +2,67 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://recast.team/</loc>
+    <loc>https://recastgroup.github.io/tags/devs/</loc>
+    <lastmod>2024-11-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://recastgroup.github.io/tags/game-developers/</loc>
+    <lastmod>2024-11-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://recastgroup.github.io/news/2024-11-04-game-devs-sdl/</loc>
+    <lastmod>2024-11-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://recastgroup.github.io/news/</loc>
+    <lastmod>2024-11-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://recastgroup.github.io/</loc>
+    <lastmod>2024-11-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://recastgroup.github.io/tags/research/</loc>
+    <lastmod>2024-11-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://recastgroup.github.io/tags/self-directed-learning/</loc>
+    <lastmod>2024-11-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://recastgroup.github.io/tags/study/</loc>
+    <lastmod>2024-11-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://recastgroup.github.io/tags/</loc>
+    <lastmod>2024-11-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://recastgroup.github.io/tags/affinity-spaces/</loc>
     <lastmod>2022-11-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://recast.team/tags/affinity-spaces/</loc>
+    <loc>https://recastgroup.github.io/tags/anonymity/</loc>
     <lastmod>2022-11-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://recast.team/tags/anonymity/</loc>
+    <loc>https://recastgroup.github.io/tags/new-paper/</loc>
     <lastmod>2022-11-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://recast.team/tags/index/</loc>
+    <loc>https://recastgroup.github.io/news/2022-11-30-new-paper-reddit/</loc>
     <lastmod>2022-11-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://recast.team/tags/new-paper/</loc>
+    <loc>https://recastgroup.github.io/tags/reddit/</loc>
     <lastmod>2022-11-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://recast.team/post/new-paper-affinity-anonymity-reddit/</loc>
+    <loc>https://recastgroup.github.io/tags/social-media/</loc>
     <lastmod>2022-11-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://recast.team/post/</loc>
-    <lastmod>2022-11-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://recast.team/tags/reddit/</loc>
-    <lastmod>2022-11-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://recast.team/tags/social-media/</loc>
-    <lastmod>2022-11-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://recast.team/tags/</loc>
-    <lastmod>2022-11-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://recast.team/tags/analytics/</loc>
-    <lastmod>2022-04-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://recast.team/tags/data/</loc>
-    <lastmod>2022-04-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://recast.team/post/data-analytics-tools/</loc>
-    <lastmod>2022-04-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://recast.team/tags/padlet/</loc>
-    <lastmod>2022-04-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://recast.team/tags/tools/</loc>
-    <lastmod>2022-04-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://recast.team/tags/learning-analytics/</loc>
+    <loc>https://recastgroup.github.io/tags/learning-analytics/</loc>
     <lastmod>2021-02-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://recast.team/post/new-paper-balancing-open-science-and-privacy/</loc>
+    <loc>https://recastgroup.github.io/news/2021-02-25-new-paper-open-science/</loc>
     <lastmod>2021-02-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://recast.team/tags/open-science/</loc>
+    <loc>https://recastgroup.github.io/tags/open-science/</loc>
     <lastmod>2021-02-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://recast.team/tags/privacy/</loc>
+    <loc>https://recastgroup.github.io/tags/privacy/</loc>
     <lastmod>2021-02-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://recast.team/categories/</loc>
+    <loc>https://recastgroup.github.io/categories/</loc>
   </url><url>
-    <loc>https://recast.team/people/</loc>
+    <loc>https://recastgroup.github.io/projects/</loc>
   </url><url>
-    <loc>https://recast.team/projects/</loc>
-  </url><url>
-    <loc>https://recast.team/series/</loc>
+    <loc>https://recastgroup.github.io/people/</loc>
   </url>
 </urlset>

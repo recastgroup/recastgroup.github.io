@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News on RECAST Team</title>
+    <link>https://recastgroup.github.io/news/</link>
+    <description>Recent content in News on RECAST Team</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 04 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://recastgroup.github.io/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New Study: Game Developers&#39; Self-Directed Learning</title>
+      <link>https://recastgroup.github.io/news/2024-11-04-game-devs-sdl/</link>
+      <pubDate>Mon, 04 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://recastgroup.github.io/news/2024-11-04-game-devs-sdl/</guid>
+      <description>Study Overview In this study, we are exploring self-directed learning (SDL) among game developers, investigating how you acquire and enhance skills in an industry marked by rapid technological evolution and shifting consumer interests.&#xA;Through interviews with game developers, we aim to uncover the motivations behind your engagement in SDL and the strategies you employ to overcome associated challenges.&#xA;We expect our findings to inform educational programs and resources tailored to the unique learning needs of professionals in the gaming industry and other rapidly changing fields.</description>
+    </item>
+    <item>
+      <title>New paper: Affinity and anonymity benefitting early career teachers in the r/teachers subreddit</title>
+      <link>https://recastgroup.github.io/news/2022-11-30-new-paper-reddit/</link>
+      <pubDate>Wed, 30 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://recastgroup.github.io/news/2022-11-30-new-paper-reddit/</guid>
+      <description>Background Hunhui Na and Dr. Bret Staudt Willet recently co-authored an article titled &amp;ldquo;Affinity and anonymity benefitting early career teachers in the r/teachers subreddit&amp;rdquo; in the Journal of Research on Technology in Education.&#xA;Here is the abstract for our article:&#xA;Early career teachers experience numerous challenges during their transition into the profession. Reddit is a social media platform that allows users to gather around shared affinity while remaining anonymous. This study explores how early career teachers participate in the r/Teachers subreddit through posts tagged as “New Teacher” content.</description>
+    </item>
+    <item>
+      <title>New paper: Balancing open science and privacy in the context of learning analytics</title>
+      <link>https://recastgroup.github.io/news/2021-02-25-new-paper-open-science/</link>
+      <pubDate>Thu, 25 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://recastgroup.github.io/news/2021-02-25-new-paper-open-science/</guid>
+      <description>Background I (Dr. Bret) recently co-authored (with Josh Rosenberg) a response to a valuable paper by Ifenthaler and Schumacher (2016) as a part of a special issue of Educational Technology Research &amp;amp; Development on &amp;ldquo;Shifting to Digital&amp;rdquo; in light of the COVID-19 pandemic.&#xA;Here is a succinct description of the aims of the special issue:&#xA;This Special Issue is unique in that it will focus on multiple perspectives where respondent authors write about the implications of scholarship on addressing current challenges related to an increased focus of digital learning.</description>
+    </item>
+  </channel>
+</rss>

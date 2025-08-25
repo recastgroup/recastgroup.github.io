@@ -1,0 +1,128 @@
+baseurl = "https://recastgroup.github.io"
+DefaultContentLanguage = "en"
+title = "RECAST Team"
+theme = "beautifulhugo"
+publishDir = "docs"
+
+#googleAnalytics = ""
+
+pygmentsStyle = "trac"
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+#pygmentsUseClassic = true
+#pygmentOptions = "linenos=inline"
+#disqusShortname = "XXX"
+
+
+
+[Params]
+  homeTitle = "RECAST Team" # Set a different text for the header on the home page
+  subtitle = "Research & Exploration of Context-Aware Self-Teaching"
+  mainSections = [] # Define a page to show up below landing page (e.g., "post", "posts")
+  logo = "img/recast-logo-full.png"
+  mark = "img/recast-logo.png" # Expecting square dimensions
+  favicon = "img/recast-logo-plain.png"
+  dateFormat = "January 2, 2006"
+  commit = false
+  rss = true
+  comments = true
+  readingTime = true
+  wordCount = true
+  useHLJS = true
+  socialShare = true
+  delayDisqus = true
+  showRelatedPosts = true
+#  hideAuthor = true
+#  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
+#  disclaimerText = "The opinions expressed herein are my own personal opinions and do not represent my employer’s view in any way."
+
+
+#[[Params.bigimg]]
+#  src = "img/triangle.jpg"
+#  desc = "Triangle"
+#[[Params.bigimg]]
+#  src = "img/sphere.jpg"
+#  desc = "Sphere"
+#  # position: see values of CSS background-position.
+#  position = "center top"
+#[[Params.bigimg]]
+#  src = "img/hexagon.jpg"
+#  desc = "Hexagon"
+
+
+
+[Author]
+#  Customize social icons in >> themes >> beautifulhugo >> data >> beautifulhugo >> social.toml
+#  Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
+#  name = "Some Person"
+  website = "recast.team"
+#  group = "google-group"
+#  email = "youremail@domain.com"
+  github = "recastgroup"
+#  facebook = "username"
+#  gitlab = "username"
+#  bitbucket = "username"
+#  twitter = "username"
+#  reddit = "username"
+#  linkedin = "username"
+#  xing = "username"
+#  stackoverflow = "users/XXXXXXX/username"
+#  snapchat = "username"
+#  instagram = "username"
+#  youtube = "user/username" # or channel/channelname
+#  soundcloud = "username"
+#  spotify = "username"
+#  bandcamp = "username"
+#  itchio = "username"
+#  vk = "username"
+#  paypal = "username"
+#  telegram = "username"
+#  500px = "username"
+#  codepen = "username"
+#  mastodon = "url"
+#  kaggle = "username"
+#  weibo = "username"
+#  slack = "username"
+#  medium = "username"
+#  discord = "invite code (https://discord.gg/XXXXXXX)"
+#  strava = "userid"
+
+
+
+[[menu.main]]
+    name = "Home"
+    weight = 1
+    identifier = "home"
+    url = "/"
+
+
+[[menu.main]]
+    name = "News"
+    weight = 2
+    identifier = "news"
+    url = "/news/"
+
+
+[[menu.main]]
+    name = "Projects"
+    weight = 3
+    identifier = "projects"
+    url = "/projects/"
+
+
+[[menu.main]]
+    name = "People"
+    weight = 4
+    identifier = "people"
+    url = "/people/"
+
+
+
+#[languages]
+#  [languages.en]
+#    contentDir = "content/en" # English
+#  [languages.es]
+#    contentDir = "content/es" # Spanish
+#  [languages.zh-CN]
+#    contentDir = "content/zh-CN" # Chinese
