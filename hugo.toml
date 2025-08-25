@@ -1,5 +1,5 @@
-baseurl = "https://recastgroup.github.io"
-DefaultContentLanguage = "en"
+baseurl = "https://recast.team"
+DefaultContentLanguage = "en-us"
 title = "RECAST Team"
 theme = "beautifulhugo"
 publishDir = "docs"

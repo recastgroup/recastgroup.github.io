@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Self-Directed Learning on RECAST Team</title>
-    <link>https://recastgroup.github.io/tags/self-directed-learning/</link>
+    <link>https://recast.team/tags/self-directed-learning/</link>
     <description>Recent content in Self-Directed Learning on RECAST Team</description>
     <generator>Hugo</generator>
-    <language>en</language>
+    <language>en-us</language>
     <lastBuildDate>Mon, 04 Nov 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://recastgroup.github.io/tags/self-directed-learning/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://recast.team/tags/self-directed-learning/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>New Study: Game Developers&#39; Self-Directed Learning</title>
-      <link>https://recastgroup.github.io/news/2024-11-04-game-devs-sdl/</link>
+      <link>https://recast.team/news/2024-11-04-game-devs-sdl/</link>
       <pubDate>Mon, 04 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://recastgroup.github.io/news/2024-11-04-game-devs-sdl/</guid>
+      <guid>https://recast.team/news/2024-11-04-game-devs-sdl/</guid>
       <description>Study Overview In this study, we are exploring self-directed learning (SDL) among game developers, investigating how you acquire and enhance skills in an industry marked by rapid technological evolution and shifting consumer interests.&#xA;Through interviews with game developers, we aim to uncover the motivations behind your engagement in SDL and the strategies you employ to overcome associated challenges.&#xA;We expect our findings to inform educational programs and resources tailored to the unique learning needs of professionals in the gaming industry and other rapidly changing fields.</description>
     </item>
   </channel>
