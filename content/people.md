@@ -21,6 +21,9 @@ We are a group of researchers spanning numerous industries and sectors, but all 
   {{< figure src="img/team/jaesung-hur.jpg" caption="Jaesung Hur" >}}
   {{< figure src="img/team/damilare-ajayi.jpg" caption="Damilare Ajayi" >}}
   {{< figure src="img/team/hilal-ayan-karabatman.png" caption="Hilal Ayan-Karabatman" >}}
+  {{< figure src="img/team/zhongyu-wang.png" caption="Zhongyu Wang" >}}
+  {{< figure src="img/team/sudeshna-aich.jpg" caption="Sudeshna Aich" >}}
+  {{< figure src="img/team/anika-costa.jpg" caption="Anika Costa" >}}
 {{< /gallery >}}
 
 - [Dr. Bret Staudt Willet](https://bretsw.com/)
@@ -28,6 +31,13 @@ We are a group of researchers spanning numerous industries and sectors, but all 
 - [Jaesung Hur](https://www.linkedin.com/in/jaesung-hur-679a791ab/)
 - [Damilare Ajayi](https://www.linkedin.com/in/ajayidamilarefelix/)
 - [Hilal Ayan-Karabatman](https://www.linkedin.com/in/hilal-ayan-karabatman-602196190/)
+- Zhongyu Wang
+- Sudeshna Aich
+- Anika Costa
+- Jiabei Xu
+- Chufeng Bai
+- Jean Baptiste Mbanzobugabo
+
 
 
 

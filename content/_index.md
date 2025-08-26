@@ -19,7 +19,7 @@ Similarly, self-directed learning is marked by iteration through trial-and-error
 
 {{< columns >}}
 
-![Working on a Computer](img/computer.png)
+![Working on a Computer](img/projects.jpg)
 
 {{< button href="/projects" >}}Research{{< /button >}}
 
@@ -29,7 +29,7 @@ Check out current RECAST projects.
 
 {{< column >}}
 
-![Newspapers on a News Stand](img/news-rectangle.png)
+![Newspapers on a News Stand](img/news.jpg)
 
 {{< button href="/news" >}}News{{< /button >}}
 
@@ -43,7 +43,7 @@ Read the latest updates from the RECAST team.
 
 {{< columns >}}
 
-![Bench in a Park](img/bench.png)
+![Bench in a Park](img/connect.jpg)
 
 {{< button href="mailto:bret.staudtwillet@fsu.edu" >}}Connect{{< /button >}}
 
@@ -53,7 +53,7 @@ Reach out to the RECAST team.
 
 {{< column >}}
 
-![Book Shelves](img/books.png)
+![Book Shelves](img/books.jpg)
 
 {{< button href="https://www.sdlglobal.com/" >}}SDL Global{{< /button >}}
 
