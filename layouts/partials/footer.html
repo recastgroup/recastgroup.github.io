@@ -91,8 +91,6 @@
             <a href="{{ "" | absLangURL }}">{{ .Site.Title }}</a>
           {{ end }}
 
-          <script src="https://tinylytics.app/embed/csTdm5dhpt3F4jLXaRDW.js" defer></script>
-
         </p>
 
 <br>
@@ -102,10 +100,14 @@
           {{ i18n "poweredBy" . | safeHTML }}
           {{ if $.GitInfo }}&nbsp;&bull;&nbsp;[<a href="{{ .Site.Params.commit }}{{ .GitInfo.Hash }}">{{ substr .GitInfo.Hash 0 8 }}</a>]{{ end }}, customized by <a href="https://bretsw.com">bretsw</a>
         </p>
+
       </div>
     </div>
   </div>
 </footer>
+
+
+
 
 
 {{ if .Params.math }}{{ partial "helpers/katex.html" . }}{{ end }}
