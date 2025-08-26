@@ -10,7 +10,7 @@ comments: false
 We are a group of researchers spanning numerous industries and sectors, but all with a deep interest in self-directed learning.
 
 
-### Current RECAST team members include:
+## Current RECAST team members include:
 
 
 <!---See https://github.com/liwenyip/hugo-easy-gallery-->
@@ -45,7 +45,7 @@ We are a group of researchers spanning numerous industries and sectors, but all 
 
 
 
-### Distinguished RECAST Team alumni include:
+## Distinguished RECAST Team alumni include:
 
 {{< gallery >}} 
   {{< figure src="img/team/hunhui-na.jpg" caption="Dr. Hunhui Na" >}}

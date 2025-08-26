@@ -98,10 +98,10 @@ pygmentsCodefencesGuessSyntax = true
 
 
 [[menu.main]]
-    name = "News"
+    name = "People"
     weight = 2
-    identifier = "news"
-    url = "/news/"
+    identifier = "people"
+    url = "/people/"
 
 
 [[menu.main]]
@@ -112,10 +112,12 @@ pygmentsCodefencesGuessSyntax = true
 
 
 [[menu.main]]
-    name = "People"
+    name = "News"
     weight = 4
-    identifier = "people"
-    url = "/people/"
+    identifier = "news"
+    url = "/news/"
+
+
 
 
 
