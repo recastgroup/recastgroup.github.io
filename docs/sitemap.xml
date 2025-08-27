@@ -2,6 +2,48 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://recast.team/news/</loc>
+    <lastmod>2025-08-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://recast.team/</loc>
+    <lastmod>2025-08-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://recast.team/tags/research/</loc>
+    <lastmod>2025-08-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://recast.team/tags/self-directed-learning/</loc>
+    <lastmod>2025-08-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://recast.team/tags/</loc>
+    <lastmod>2025-08-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://recast.team/tags/webinar/</loc>
+    <lastmod>2025-08-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://recast.team/news/2025-08-27-issdl-webinar/</loc>
+    <lastmod>2025-08-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://recast.team/tags/context-aware-self-teaching/</loc>
+    <lastmod>2025-06-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://recast.team/tags/ecosystems/</loc>
+    <lastmod>2025-06-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://recast.team/tags/new-paper/</loc>
+    <lastmod>2025-06-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://recast.team/news/2025-06-03-new-paper-science-teachers-sdl/</loc>
+    <lastmod>2025-06-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://recast.team/tags/professional-development/</loc>
+    <lastmod>2025-06-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://recast.team/tags/science-teachers/</loc>
+    <lastmod>2025-06-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://recast.team/tags/social-media/</loc>
+    <lastmod>2025-06-03T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://recast.team/tags/devs/</loc>
     <lastmod>2024-11-04T00:00:00+00:00</lastmod>
   </url><url>
@@ -11,23 +53,47 @@
     <loc>https://recast.team/news/2024-11-04-game-devs-sdl/</loc>
     <lastmod>2024-11-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://recast.team/news/</loc>
-    <lastmod>2024-11-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://recast.team/</loc>
-    <lastmod>2024-11-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://recast.team/tags/research/</loc>
-    <lastmod>2024-11-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://recast.team/tags/self-directed-learning/</loc>
-    <lastmod>2024-11-04T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://recast.team/tags/study/</loc>
     <lastmod>2024-11-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://recast.team/tags/</loc>
-    <lastmod>2024-11-04T00:00:00+00:00</lastmod>
+    <loc>https://recast.team/tags/conference/</loc>
+    <lastmod>2024-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://recast.team/news/2024-11-01-keynote-edvolution/</loc>
+    <lastmod>2024-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://recast.team/tags/presentation/</loc>
+    <lastmod>2024-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://recast.team/tags/slide-deck/</loc>
+    <lastmod>2024-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://recast.team/tags/genai/</loc>
+    <lastmod>2024-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://recast.team/tags/generative-ai/</loc>
+    <lastmod>2024-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://recast.team/news/2024-09-01-new-paper-pst-ai/</loc>
+    <lastmod>2024-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://recast.team/tags/pre-service-teachers/</loc>
+    <lastmod>2024-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://recast.team/tags/technology-integration/</loc>
+    <lastmod>2024-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://recast.team/tags/game-based-learning/</loc>
+    <lastmod>2024-08-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://recast.team/tags/play/</loc>
+    <lastmod>2024-08-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://recast.team/tags/podcast/</loc>
+    <lastmod>2024-08-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://recast.team/news/2024-08-07-colleen-smith-podcast/</loc>
+    <lastmod>2024-08-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://recast.team/tags/affinity-spaces/</loc>
     <lastmod>2022-11-30T00:00:00+00:00</lastmod>
@@ -35,16 +101,10 @@
     <loc>https://recast.team/tags/anonymity/</loc>
     <lastmod>2022-11-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://recast.team/tags/new-paper/</loc>
-    <lastmod>2022-11-30T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://recast.team/news/2022-11-30-new-paper-reddit/</loc>
     <lastmod>2022-11-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://recast.team/tags/reddit/</loc>
-    <lastmod>2022-11-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://recast.team/tags/social-media/</loc>
     <lastmod>2022-11-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://recast.team/tags/learning-analytics/</loc>

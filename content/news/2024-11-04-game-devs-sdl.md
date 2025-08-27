@@ -2,6 +2,7 @@
 title: "New Study: Game Developers' Self-Directed Learning"
 date: 2024-11-04
 thumbnail: ""
+author: ["Dr. Bret Staudt Willet", "Zhongyu Wang", "Jiabei Xu"]
 Description: ""
 Tags: ["research", "study", "game developers", "devs", "self-directed learning"]
 Categories: []
@@ -14,7 +15,7 @@ DisableComments: true
 
 ---
 
-## Study Overview
+## Study Overview:
 
 In this study, we are exploring self-directed learning (SDL) among game developers, investigating how you acquire and enhance skills in an industry marked by rapid technological evolution and shifting consumer interests.
 
@@ -34,7 +35,7 @@ Thank you for your interest!
 
 ---
 
-## Introduction
+## Introduction:
 
 In this study, we want to find out more about how game developers engage in self-directed learning to acquire and enhance their skills. I am asking you to be in this study because you are a professional working in the games industry. If you agree to participate, I will ask you to answer some questions about your own experiences and processes of learning in the video games industry. 
 
@@ -49,7 +50,7 @@ Your involvement in the study will last less than one hour. If you want to stop 
 
 ---
 
-## Research Objectives
+## Research Objectives:
 
 The purpose of this study is to explore how game developers engage in self-directed learning to acquire and enhance their skills.
 
@@ -68,6 +69,6 @@ Although existing research has explored self-directed learning in workplace cont
 
 By revealing patterns and trends in self-directed learning among game developers, the study may inform the design of more tailored and effective educational programs, resources, and support systems. This, in turn, could enhance the professional development and skill acquisition of future game developers, leading to a more skilled and innovative workforce within the industry. Furthermore, the research findings may contribute to the advancement of theoretical frameworks and understanding of self-directed learning processes, benefiting researchers and educators in related fields.
 
-## Reference
+## Reference:
 
 Yeo, R.K. (2008). How does learning (not) take place in problem-based learning activities in workplace contexts? *Human Resource Development International, 11*, 317–330.  https://doi.org/10.1080/13678860802102609

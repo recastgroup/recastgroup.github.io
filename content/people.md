@@ -25,6 +25,7 @@ We are a group of researchers spanning numerous industries and sectors, but all 
   {{< figure src="img/team/zhongyu-wang.png" caption="Zhongyu Wang" >}}
   {{< figure src="img/team/sudeshna-aich.jpg" caption="Sudeshna Aich" >}}
   {{< figure src="img/team/anika-costa.jpg" caption="Anika Costa" >}}
+  {{< figure src="img/team/jason-harle.jpg" caption="Jason Harle" >}}
   {{< figure src="img/team/wes-dorce.jpg" caption="Wes Dorce" >}}
   {{< figure src="img/team/jackson-anderson.jpg" caption="Jackson Anderson" >}}
 {{< /gallery >}}
@@ -38,6 +39,7 @@ We are a group of researchers spanning numerous industries and sectors, but all 
 - [Zhongyu Wang](https://www.linkedin.com/in/zhongyu-wang-10068b291/)
 - [Sudeshna Aich](https://www.linkedin.com/in/sudeshna-aich-mba-cisa-cdpse-820aa78/)
 - [Anika Costa](https://www.linkedin.com/in/anikacosta/)
+- [Jason Harle](https://www.linkedin.com/in/jasonwharle/)
 - [Wes Dorce](https://www.linkedin.com/in/wes-dorce-2358881a8/)
 - [Jackson Anderson](https://www.linkedin.com/in/jackson-p-anderson/)
 - [Chufeng Bai](https://www.linkedin.com/in/chufeng-bai-969875221/)

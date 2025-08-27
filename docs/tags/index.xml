@@ -6,22 +6,8 @@
     <description>Recent content in Tags on RECAST Team</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 04 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 Aug 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://recast.team/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Devs</title>
-      <link>https://recast.team/tags/devs/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://recast.team/tags/devs/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Game Developers</title>
-      <link>https://recast.team/tags/game-developers/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://recast.team/tags/game-developers/</guid>
-      <description></description>
-    </item>
     <item>
       <title>Research</title>
       <link>https://recast.team/tags/research/</link>
@@ -37,10 +23,143 @@
       <description></description>
     </item>
     <item>
+      <title>Webinar</title>
+      <link>https://recast.team/tags/webinar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://recast.team/tags/webinar/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Context-Aware Self-Teaching</title>
+      <link>https://recast.team/tags/context-aware-self-teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://recast.team/tags/context-aware-self-teaching/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ecosystems</title>
+      <link>https://recast.team/tags/ecosystems/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://recast.team/tags/ecosystems/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>New Paper</title>
+      <link>https://recast.team/tags/new-paper/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://recast.team/tags/new-paper/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Professional Development</title>
+      <link>https://recast.team/tags/professional-development/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://recast.team/tags/professional-development/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Science Teachers</title>
+      <link>https://recast.team/tags/science-teachers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://recast.team/tags/science-teachers/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Social Media</title>
+      <link>https://recast.team/tags/social-media/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://recast.team/tags/social-media/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Devs</title>
+      <link>https://recast.team/tags/devs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://recast.team/tags/devs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Game Developers</title>
+      <link>https://recast.team/tags/game-developers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://recast.team/tags/game-developers/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Study</title>
       <link>https://recast.team/tags/study/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://recast.team/tags/study/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Conference</title>
+      <link>https://recast.team/tags/conference/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://recast.team/tags/conference/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Presentation</title>
+      <link>https://recast.team/tags/presentation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://recast.team/tags/presentation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Slide Deck</title>
+      <link>https://recast.team/tags/slide-deck/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://recast.team/tags/slide-deck/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GenAI</title>
+      <link>https://recast.team/tags/genai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://recast.team/tags/genai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Generative AI</title>
+      <link>https://recast.team/tags/generative-ai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://recast.team/tags/generative-ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pre-Service Teachers</title>
+      <link>https://recast.team/tags/pre-service-teachers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://recast.team/tags/pre-service-teachers/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Technology Integration</title>
+      <link>https://recast.team/tags/technology-integration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://recast.team/tags/technology-integration/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Game-Based Learning</title>
+      <link>https://recast.team/tags/game-based-learning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://recast.team/tags/game-based-learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Play</title>
+      <link>https://recast.team/tags/play/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://recast.team/tags/play/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Podcast</title>
+      <link>https://recast.team/tags/podcast/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://recast.team/tags/podcast/</guid>
       <description></description>
     </item>
     <item>
@@ -58,24 +177,10 @@
       <description></description>
     </item>
     <item>
-      <title>New Paper</title>
-      <link>https://recast.team/tags/new-paper/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://recast.team/tags/new-paper/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Reddit</title>
       <link>https://recast.team/tags/reddit/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://recast.team/tags/reddit/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Social Media</title>
-      <link>https://recast.team/tags/social-media/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://recast.team/tags/social-media/</guid>
       <description></description>
     </item>
     <item>

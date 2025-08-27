@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GenAI on RECAST Team</title>
+    <link>https://recast.team/tags/genai/</link>
+    <description>Recent content in GenAI on RECAST Team</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 01 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://recast.team/tags/genai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New paper: Pre-service teachers&#39; dual perspectives on generative AI: Benefits, challenges, and integrating into teaching and learning</title>
+      <link>https://recast.team/news/2024-09-01-new-paper-pst-ai/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://recast.team/news/2024-09-01-new-paper-pst-ai/</guid>
+      <description>Background: Jaesung Hur and colleagues recently co-authored an article titled &amp;ldquo;Pre-service teachers&amp;rsquo; dual perspectives on generative AI: Benefits, challenges, and integrating into teaching and learning&amp;rdquo; in Online Learning.&#xA;Abstract: This study examined pre-service teachers&amp;rsquo; perspectives on integrating generative AI (GenAI) tools into their own learning and teaching practices. Discussion posts from asynchronous online courses on ChatGPT were analyzed using the Diffusion of Innovations framework to explore familiarity, willingness to apply ChatGPT to instruction, potential benefits, challenges, and concerns about using GenAI in teaching and learning.</description>
+    </item>
+  </channel>
+</rss>

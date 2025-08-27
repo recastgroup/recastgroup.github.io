@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Webinar on RECAST Team</title>
+    <link>https://recast.team/tags/webinar/</link>
+    <description>Recent content in Webinar on RECAST Team</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 27 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://recast.team/tags/webinar/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Webinar Announced: Self-Directed Learning Spanning Contexts (Sponsored by ISSDL)</title>
+      <link>https://recast.team/news/2025-08-27-issdl-webinar/</link>
+      <pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://recast.team/news/2025-08-27-issdl-webinar/</guid>
+      <description>Webinar Overview: Join us for a webinar exploring self-directed learning within specific contexts. Our panelists have studied self-directed learning in five distinct sectors (language learning, cybersecurity, behavior analysis, nursing, and game development) and will reflect on the various definitions and models of self-directed learning they have incorporated into their work, the insights and lessons learned about self-directed learning in their contexts, and how self-directed learning should be applied moving forward.</description>
+    </item>
+  </channel>
+</rss>
