@@ -25,9 +25,8 @@ We are a group of researchers spanning numerous industries and sectors, but all 
   {{< figure src="img/team/zhongyu-wang.png" caption="Zhongyu Wang" >}}
   {{< figure src="img/team/sudeshna-aich.jpg" caption="Sudeshna Aich" >}}
   {{< figure src="img/team/anika-costa.jpg" caption="Anika Costa" >}}
-  {{< figure src="img/team/jason-harle.jpg" caption="Jason Harle" >}}
   {{< figure src="img/team/wes-dorce.jpg" caption="Wes Dorce" >}}
-  {{< figure src="img/team/jackson-anderson.jpg" caption="Jackson Anderson" >}}
+  {{< figure src="img/team/jackson-anderson.png" caption="Jackson Anderson" >}}
 {{< /gallery >}}
 
 - [Dr. Bret Staudt Willet](https://bretsw.com/)
@@ -39,7 +38,6 @@ We are a group of researchers spanning numerous industries and sectors, but all 
 - [Zhongyu Wang](https://www.linkedin.com/in/zhongyu-wang-10068b291/)
 - [Sudeshna Aich](https://www.linkedin.com/in/sudeshna-aich-mba-cisa-cdpse-820aa78/)
 - [Anika Costa](https://www.linkedin.com/in/anikacosta/)
-- [Jason Harle](https://www.linkedin.com/in/jasonwharle/)
 - [Wes Dorce](https://www.linkedin.com/in/wes-dorce-2358881a8/)
 - [Jackson Anderson](https://www.linkedin.com/in/jackson-p-anderson/)
 - [Chufeng Bai](https://www.linkedin.com/in/chufeng-bai-969875221/)
@@ -56,11 +54,13 @@ We are a group of researchers spanning numerous industries and sectors, but all 
 ## Distinguished RECAST Team alumni include:
 
 {{< gallery >}} 
+  {{< figure src="img/team/jason-harle.jpg" caption="Dr. Jason Harle" >}}
   {{< figure src="img/team/hunhui-na.jpg" caption="Dr. Hunhui Na" >}}
   {{< figure src="img/team/colleen-smith.png" caption="Dr. Colleen Smith" >}}
   {{< figure src="img/team/vania-aguilar.jpg" caption="Dr. Vania Aguilar" >}}
 {{< /gallery >}}
 
+- [Dr. Jason Harle](https://www.linkedin.com/in/jasonwharle/)
 - [Dr. Hunhui Na](https://www.linkedin.com/in/hunhuina/) (Assistant Professor, University of North Carolina, Charlotte)
 - [Dr. Colleen Smith](https://www.linkedin.com/in/marquartc/) (Instructional Designer, North Carolina Central University)
 - [Dr. Vania Aguilar](https://www.linkedin.com/in/vania-aguilar-edd-175b2b13/) (Program Manager, FSU Center for the Advancement of Human Rights)
