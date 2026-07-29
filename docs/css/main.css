@@ -1127,3 +1127,48 @@ h4.see-also {
     overflow-y: hidden;
   }
 
+
+
+
+
+/* Container locks the D20 animation to the background */
+.d20-bg-container {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  z-index: -1;
+  pointer-events: none;
+  overflow: hidden;
+
+  /* Your custom color applied here */
+  color: #591920;
+  opacity: 0.15;
+}
+
+.d20-die {
+  /* Cut size in half */
+  width: 75px;
+  height: 75px;
+  position: absolute;
+  animation:
+    floatX 8s linear infinite alternate,
+    floatY 6s ease-in-out infinite alternate,
+    spin 3s linear infinite;
+}
+
+@keyframes floatX {
+  0% { left: 0px; }
+  100% { left: calc(100vw - 75px); }
+}
+
+@keyframes floatY {
+  0% { top: 0px; }
+  100% { top: calc(100vh - 75px); }
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Livestream on RECAST Team</title>
-    <link>https://recast.team/tags/livestream/</link>
+    <link>http://localhost:1313/tags/livestream/</link>
     <description>Recent content in Livestream on RECAST Team</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 12 Sep 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://recast.team/tags/livestream/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/livestream/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Innovation Hub Faculty Spotlight: Context-Aware Self-Teaching</title>
-      <link>https://recast.team/news/2025-09-12-innovation-spotlight/</link>
+      <link>http://localhost:1313/news/2025-09-12-innovation-spotlight/</link>
       <pubDate>Fri, 12 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://recast.team/news/2025-09-12-innovation-spotlight/</guid>
+      <guid>http://localhost:1313/news/2025-09-12-innovation-spotlight/</guid>
       <description></description>
     </item>
   </channel>
