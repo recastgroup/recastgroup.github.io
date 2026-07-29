@@ -5,7 +5,7 @@ comments: false
 
 
 
-We are the *Research and Exploration of Context-Aware Self-Teaching* (**RECAST**) group, a research team gathered and led by [Dr. Bret Staudt Willet]. We are based in the Instructional Systems and Learning Technologies ([ISLT]) program at Florida State University, but our contributors and collaborators are global in scope.
+We are the *Research and Exploration of Context-Aware Self-Directed Learning* (**RECAST**) group, a research team gathered and led by [Dr. Bret Staudt Willet]. We are based in the Instructional Systems and Learning Technologies ([ISLT]) program at Florida State University, but our contributors and collaborators are global in scope.
 
 While RECAST is an acronym, we also appreciate the play-on-words. In tabletop games like *Dungeons & Dragons*, the D20 {{< awesome fas fa-dice-d20 >}} (i.e., 20-sided die) is rolled (i.e., cast) to determine the success of an action. In some cases, there may be an opportunity to retry the roll &mdash; that is, to **recast** the die. 
 

@@ -2,241 +2,241 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on RECAST Team</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://recast.team/tags/</link>
     <description>Recent content in Tags on RECAST Team</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 12 Sep 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://recast.team/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Chat</title>
-      <link>http://localhost:1313/tags/chat/</link>
+      <link>https://recast.team/tags/chat/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/chat/</guid>
+      <guid>https://recast.team/tags/chat/</guid>
       <description></description>
     </item>
     <item>
       <title>Context-Aware Self-Teaching</title>
-      <link>http://localhost:1313/tags/context-aware-self-teaching/</link>
+      <link>https://recast.team/tags/context-aware-self-teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/context-aware-self-teaching/</guid>
+      <guid>https://recast.team/tags/context-aware-self-teaching/</guid>
       <description></description>
     </item>
     <item>
       <title>Gaming</title>
-      <link>http://localhost:1313/tags/gaming/</link>
+      <link>https://recast.team/tags/gaming/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/gaming/</guid>
+      <guid>https://recast.team/tags/gaming/</guid>
       <description></description>
     </item>
     <item>
       <title>Innovation</title>
-      <link>http://localhost:1313/tags/innovation/</link>
+      <link>https://recast.team/tags/innovation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/innovation/</guid>
+      <guid>https://recast.team/tags/innovation/</guid>
       <description></description>
     </item>
     <item>
       <title>Livestream</title>
-      <link>http://localhost:1313/tags/livestream/</link>
+      <link>https://recast.team/tags/livestream/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/livestream/</guid>
+      <guid>https://recast.team/tags/livestream/</guid>
       <description></description>
     </item>
     <item>
       <title>Research</title>
-      <link>http://localhost:1313/tags/research/</link>
+      <link>https://recast.team/tags/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/research/</guid>
+      <guid>https://recast.team/tags/research/</guid>
       <description></description>
     </item>
     <item>
       <title>Self-Directed Learning</title>
-      <link>http://localhost:1313/tags/self-directed-learning/</link>
+      <link>https://recast.team/tags/self-directed-learning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/self-directed-learning/</guid>
+      <guid>https://recast.team/tags/self-directed-learning/</guid>
       <description></description>
     </item>
     <item>
       <title>Spotlight</title>
-      <link>http://localhost:1313/tags/spotlight/</link>
+      <link>https://recast.team/tags/spotlight/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/spotlight/</guid>
+      <guid>https://recast.team/tags/spotlight/</guid>
       <description></description>
     </item>
     <item>
       <title>Webinar</title>
-      <link>http://localhost:1313/tags/webinar/</link>
+      <link>https://recast.team/tags/webinar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/webinar/</guid>
+      <guid>https://recast.team/tags/webinar/</guid>
       <description></description>
     </item>
     <item>
       <title>Ecosystems</title>
-      <link>http://localhost:1313/tags/ecosystems/</link>
+      <link>https://recast.team/tags/ecosystems/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/ecosystems/</guid>
+      <guid>https://recast.team/tags/ecosystems/</guid>
       <description></description>
     </item>
     <item>
       <title>New Paper</title>
-      <link>http://localhost:1313/tags/new-paper/</link>
+      <link>https://recast.team/tags/new-paper/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/new-paper/</guid>
+      <guid>https://recast.team/tags/new-paper/</guid>
       <description></description>
     </item>
     <item>
       <title>Professional Development</title>
-      <link>http://localhost:1313/tags/professional-development/</link>
+      <link>https://recast.team/tags/professional-development/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/professional-development/</guid>
+      <guid>https://recast.team/tags/professional-development/</guid>
       <description></description>
     </item>
     <item>
       <title>Science Teachers</title>
-      <link>http://localhost:1313/tags/science-teachers/</link>
+      <link>https://recast.team/tags/science-teachers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/science-teachers/</guid>
+      <guid>https://recast.team/tags/science-teachers/</guid>
       <description></description>
     </item>
     <item>
       <title>Social Media</title>
-      <link>http://localhost:1313/tags/social-media/</link>
+      <link>https://recast.team/tags/social-media/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/social-media/</guid>
+      <guid>https://recast.team/tags/social-media/</guid>
       <description></description>
     </item>
     <item>
       <title>Devs</title>
-      <link>http://localhost:1313/tags/devs/</link>
+      <link>https://recast.team/tags/devs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/devs/</guid>
+      <guid>https://recast.team/tags/devs/</guid>
       <description></description>
     </item>
     <item>
       <title>Game Developers</title>
-      <link>http://localhost:1313/tags/game-developers/</link>
+      <link>https://recast.team/tags/game-developers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/game-developers/</guid>
+      <guid>https://recast.team/tags/game-developers/</guid>
       <description></description>
     </item>
     <item>
       <title>Study</title>
-      <link>http://localhost:1313/tags/study/</link>
+      <link>https://recast.team/tags/study/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/study/</guid>
+      <guid>https://recast.team/tags/study/</guid>
       <description></description>
     </item>
     <item>
       <title>Conference</title>
-      <link>http://localhost:1313/tags/conference/</link>
+      <link>https://recast.team/tags/conference/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/conference/</guid>
+      <guid>https://recast.team/tags/conference/</guid>
       <description></description>
     </item>
     <item>
       <title>Presentation</title>
-      <link>http://localhost:1313/tags/presentation/</link>
+      <link>https://recast.team/tags/presentation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/presentation/</guid>
+      <guid>https://recast.team/tags/presentation/</guid>
       <description></description>
     </item>
     <item>
       <title>Slide Deck</title>
-      <link>http://localhost:1313/tags/slide-deck/</link>
+      <link>https://recast.team/tags/slide-deck/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/slide-deck/</guid>
+      <guid>https://recast.team/tags/slide-deck/</guid>
       <description></description>
     </item>
     <item>
       <title>GenAI</title>
-      <link>http://localhost:1313/tags/genai/</link>
+      <link>https://recast.team/tags/genai/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/genai/</guid>
+      <guid>https://recast.team/tags/genai/</guid>
       <description></description>
     </item>
     <item>
       <title>Generative AI</title>
-      <link>http://localhost:1313/tags/generative-ai/</link>
+      <link>https://recast.team/tags/generative-ai/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/generative-ai/</guid>
+      <guid>https://recast.team/tags/generative-ai/</guid>
       <description></description>
     </item>
     <item>
       <title>Pre-Service Teachers</title>
-      <link>http://localhost:1313/tags/pre-service-teachers/</link>
+      <link>https://recast.team/tags/pre-service-teachers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/pre-service-teachers/</guid>
+      <guid>https://recast.team/tags/pre-service-teachers/</guid>
       <description></description>
     </item>
     <item>
       <title>Technology Integration</title>
-      <link>http://localhost:1313/tags/technology-integration/</link>
+      <link>https://recast.team/tags/technology-integration/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/technology-integration/</guid>
+      <guid>https://recast.team/tags/technology-integration/</guid>
       <description></description>
     </item>
     <item>
       <title>Game-Based Learning</title>
-      <link>http://localhost:1313/tags/game-based-learning/</link>
+      <link>https://recast.team/tags/game-based-learning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/game-based-learning/</guid>
+      <guid>https://recast.team/tags/game-based-learning/</guid>
       <description></description>
     </item>
     <item>
       <title>Play</title>
-      <link>http://localhost:1313/tags/play/</link>
+      <link>https://recast.team/tags/play/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/play/</guid>
+      <guid>https://recast.team/tags/play/</guid>
       <description></description>
     </item>
     <item>
       <title>Podcast</title>
-      <link>http://localhost:1313/tags/podcast/</link>
+      <link>https://recast.team/tags/podcast/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/podcast/</guid>
+      <guid>https://recast.team/tags/podcast/</guid>
       <description></description>
     </item>
     <item>
       <title>Affinity Spaces</title>
-      <link>http://localhost:1313/tags/affinity-spaces/</link>
+      <link>https://recast.team/tags/affinity-spaces/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/affinity-spaces/</guid>
+      <guid>https://recast.team/tags/affinity-spaces/</guid>
       <description></description>
     </item>
     <item>
       <title>Anonymity</title>
-      <link>http://localhost:1313/tags/anonymity/</link>
+      <link>https://recast.team/tags/anonymity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/anonymity/</guid>
+      <guid>https://recast.team/tags/anonymity/</guid>
       <description></description>
     </item>
     <item>
       <title>Reddit</title>
-      <link>http://localhost:1313/tags/reddit/</link>
+      <link>https://recast.team/tags/reddit/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/reddit/</guid>
+      <guid>https://recast.team/tags/reddit/</guid>
       <description></description>
     </item>
     <item>
       <title>Learning Analytics</title>
-      <link>http://localhost:1313/tags/learning-analytics/</link>
+      <link>https://recast.team/tags/learning-analytics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/learning-analytics/</guid>
+      <guid>https://recast.team/tags/learning-analytics/</guid>
       <description></description>
     </item>
     <item>
       <title>Open Science</title>
-      <link>http://localhost:1313/tags/open-science/</link>
+      <link>https://recast.team/tags/open-science/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/open-science/</guid>
+      <guid>https://recast.team/tags/open-science/</guid>
       <description></description>
     </item>
     <item>
       <title>Privacy</title>
-      <link>http://localhost:1313/tags/privacy/</link>
+      <link>https://recast.team/tags/privacy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/privacy/</guid>
+      <guid>https://recast.team/tags/privacy/</guid>
       <description></description>
     </item>
   </channel>

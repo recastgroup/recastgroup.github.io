@@ -18,7 +18,7 @@ pygmentsCodefencesGuessSyntax = true
 
 [Params]
   homeTitle = "RECAST Team" # Set a different text for the header on the home page
-  subtitle = "Research & Exploration of Context-Aware Self-Teaching"
+  subtitle = "Research & Exploration of Context-Aware Self-Directed Learning"
   mainSections = [] # Define a page to show up below landing page (e.g., "post", "posts")
   logo = "img/recast-logo-full.png"
   mark = "img/recast-logo.png" # Expecting square dimensions
