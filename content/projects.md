@@ -4,7 +4,7 @@ comments: false
 ---
 
 
-## SDL for Innovation: Learing in the FSU Innovation Hub
+## SDL for Innovation: Learning in the FSU Innovation Hub
 
 ![People working collaboratively in the FSU Innovation Hub](/img/innovation-hub.png)
 
