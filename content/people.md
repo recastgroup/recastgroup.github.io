@@ -64,8 +64,8 @@ We are a group of researchers spanning numerous industries and sectors, but all 
 - [Dr. Christie Catteeuw](https://www.linkedin.com/in/catteeuw/), Senior Learning Performance Consultant, USAA
 - [Dr. Jason Harle](https://www.linkedin.com/in/jasonwharle/)
 - [Dr. Jaesung Hur](https://www.linkedin.com/in/jaesung-hur-679a791ab/)
-- [Dr. Chaewon Kim](https://www.linkedin.com/in/chaewon-kim-053867225/)
-- [Dr. Hunhui Na](https://www.linkedin.com/in/hunhuina/), Assistant Professor, University of Utah
+- [Dr. Chaewon Kim](https://www.linkedin.com/in/chaewon-kim-053867225/), Education Assistant Professor and Research and Curriculum Director of Technology and Continuing Professional Development, Southern Illinois University School of Medicine
+- [Dr. Hunhui Na](https://www.linkedin.com/in/hunhuina/), Assistant Professor, Division of Games, University of Utah
 - [Dr. Colleen Smith](https://www.linkedin.com/in/marquartc/), Senior Instructional Designer, IDEXX
 - [Dr. Jiabei Xu](https://www.linkedin.com/in/jx13/), Instructional Designer, FSU Office of Digital Learning
 
