@@ -11,33 +11,32 @@
     {{ partial "footer.html" . }}
     {{ block "footer" . }}{{ end }}
 
-    <!-- Animation code moved INSIDE the body tag -->
-    {{ if .IsHome }}
     <div class="d20-bg-container">
-  <svg class="d20-die" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
-    <!-- Outer Hexagon -->
-    <polygon points="50,5 89,27 89,73 50,95 11,73 11,27" fill="none" stroke="currentColor" stroke-width="4" stroke-linejoin="round"/>
+      <svg class="d20-die" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
 
-    <!-- Inner Central Triangle (The "20" Face) -->
-    <polygon points="50,32 30,62 70,62" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/>
+        <!-- Outer Hexagon -->
+        <polygon points="50,5 89,27 89,73 50,95 11,73 11,27" fill="none" stroke="currentColor" stroke-width="4" stroke-linejoin="round"/>
 
-    <!-- Connecting Lines -->
-    <line x1="50" y1="5" x2="50" y2="32" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
-    <line x1="11" y1="27" x2="50" y2="32" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
-    <line x1="89" y1="27" x2="50" y2="32" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+        <!-- Inner Central Triangle (The "20" Face) -->
+        <polygon points="50,32 30,62 70,62" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/>
 
-    <line x1="11" y1="27" x2="30" y2="62" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
-    <line x1="11" y1="73" x2="30" y2="62" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
-    <line x1="50" y1="95" x2="30" y2="62" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+        <!-- Connecting Lines -->
+        <line x1="50" y1="5" x2="50" y2="32" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+        <line x1="11" y1="27" x2="50" y2="32" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+        <line x1="89" y1="27" x2="50" y2="32" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
 
-    <line x1="50" y1="95" x2="70" y2="62" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
-    <line x1="89" y1="73" x2="70" y2="62" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
-    <line x1="89" y1="27" x2="70" y2="62" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+        <line x1="11" y1="27" x2="30" y2="62" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+       <line x1="11" y1="73" x2="30" y2="62" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+        <line x1="50" y1="95" x2="30" y2="62" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
 
-    <!-- The 20 -->
-    <text x="50" y="56" font-family="sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="currentColor">20</text>
-  </svg>
-</div>
-    {{ end }}
+        <line x1="50" y1="95" x2="70" y2="62" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+        <line x1="89" y1="73" x2="70" y2="62" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+        <line x1="89" y1="27" x2="70" y2="62" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+
+       <!-- The 20 -->
+        <text x="50" y="56" font-family="sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="currentColor">20</text>
+
+      </svg>
+    </div>
   </body>
 </html>

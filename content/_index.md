@@ -4,6 +4,7 @@ comments: false
 ---
 
 
+{{< feature-card >}}
 
 We are the *Research and Exploration of Context-Aware Self-Directed Learning* (**RECAST**) group, a research team gathered and led by [Dr. Bret Staudt Willet]. We are based in the Instructional Systems and Learning Technologies ([ISLT]) program at Florida State University, but our contributors and collaborators are global in scope.
 
@@ -11,53 +12,77 @@ While RECAST is an acronym, we also appreciate the play-on-words. In tabletop ga
 
 Similarly, self-directed learning is marked by iteration through trial-and-error, design-and-test &mdash; figuring things out by trying and trying again. In this way, the D20 {{< awesome fas fa-dice-d20 >}} and the ability to **recast** are fitting symbols of self-directed learning.
 
+{{< /feature-card >}}
 
 
 
 
----
 
 {{< columns >}}
 
-![Working on a Computer](img/projects.jpg)
 
-{{< button href="/projects" >}}Research{{< /button >}}
+{{< feature-card >}}
 
-Check out current RECAST projects.
+### {{< awesome fas fa-toolbox >}} Projects
 
+![Puzzle pieces](img/projects.jpg)
+
+{{< button href="/projects" >}}
+  Explore current RECAST projects →
+{{< /button >}}
+
+{{< /feature-card >}}
 
 
 {{< column >}}
 
-![Newspapers on a News Stand](img/news.jpg)
 
-{{< button href="/news" >}}News{{< /button >}}
+{{< feature-card >}}
 
-Read the latest updates from the RECAST team.
+### {{< awesome fas fa-newspaper >}} News
+
+![Dandelion seeds scattering in the wind](img/news.jpg)
+
+{{< button href="/news" >}}
+  Read the latest from the RECAST team →
+{{< /button >}}
+
+{{< /feature-card >}}
+
 
 {{< endcolumns >}}
 
 
-
----
-
 {{< columns >}}
 
-![Bench in a Park](img/connect.jpg)
 
-{{< button href="mailto:bret.staudtwillet@fsu.edu" >}}Connect{{< /button >}}
+{{< feature-card >}}
 
-Reach out to the RECAST team.
+### {{< awesome far fa-envelope >}} Connect
 
+![Two people sitting across a cafe table from each other](img/connect.jpg)
+
+{{< button href="mailto:bret.staudtwillet@fsu.edu" >}}
+  Reach out to the RECAST team →
+{{< /button >}}
+
+{{< /feature-card >}}
 
 
 {{< column >}}
 
+
+{{< feature-card >}}
+
+### {{< awesome fas fa-globe >}} SDL Global
+
 ![Book Shelves](img/books.jpg)
 
-{{< button href="https://www.sdlglobal.com/" >}}SDL Global{{< /button >}}
+{{< button href="https://www.sdlglobal.com/" >}}
+  Visit the International Society for Self-Directed Learning →
+{{< /button >}}
 
-Vist the International Society for Self-Directed Learning (ISSDL)
+{{< /feature-card >}}
 
 {{< endcolumns >}}
 

@@ -9,7 +9,7 @@ body {
   font-style: normal;
   font-weight: 300;
   color: #000;
-  font-size: 18px;
+  font-size: 16px;
   position: relative;
   background: #fff;
   display: flex;
@@ -36,7 +36,7 @@ body {
 }
 
 p {
-  line-height: 1.5;
+  line-height: 1.6;
   margin: 6px 0;
 }
 
@@ -56,7 +56,7 @@ p a {
 title, h1 {
   font-family: 'Playfair Display', serif;
   font-style: normal;
-  font-size: 76px;
+  font-size: 36px;
   font-weight: 400;
   color: #c58a24;
 }
@@ -64,21 +64,20 @@ title, h1 {
 h2 {
   font-family: 'Raleway', serif;
   font-style: normal;
-  font-size: 32px;
+  font-size: 24px !important;
   font-weight: 700;
   color: #591920;
 }
 
 h3 {
   font-family: 'Raleway', serif;
-  font-style: italic;
-  font-size: 24px;
+  font-size: 20px;
   font-weight: 800;
   color: #c58a24;
 }
 
 h4,h5,h6 {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Raleway', serif;
   font-size: 18px;
   font-weight: 800;
   color: #c58a24;
@@ -151,32 +150,6 @@ hr.small {
 }
 
 
-/* --------------------------------------------- */
-
-.markdown-btn {
-  display: block;
-  width: 100%;
-  padding: 0.5em;
-  border: 1px solid #c58a24;
-  border-radius: 10px;
-  background-color: #591920;
-  color: #fff;
-  font-size: 32px;
-  font-family: 'Lato', sans-serif;
-  text-align: center;
-  text-decoration: none;
-  cursor: pointer;
-  white-space: nowrap;
-  overflow: hidden;
-}
-
-.markdown-btn:hover,
-.markdown-btn:active {
-  background-color: #c58a24;
-  text-decoration: underline;
-  cursor: pointer;
-}
-
 
 
 
@@ -233,6 +206,7 @@ img {
   display: block;
   margin: auto;
   max-width: 100%;
+  border-radius: 8px;
 }
 @media (prefers-color-scheme: dark) {
 figure:not(.dark) img, img.white {
@@ -389,8 +363,7 @@ figure:not(.dark) img, img.white {
   border-radius: 50%; /* Rounds the corners of the element to make it circular */
   margin-left: -50%;
   display: inline-block;
-  border: 0.2px solid rgba(0, 0, 0, .8); /* Adds a broder all the way around the element */
-  box-shadow: 4 4 8px rgba(0, 0, 0, .8);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
   -webkit-box-shadow: 4 4 12px rgba(0, 0, 0, .8);
   -moz-box-shadow: 4 4 12px rgba(0, 0, 0, .8);
 }
@@ -667,11 +640,6 @@ footer div.disclaimer {
   float: right;
 }
 
-@media only screen and (min-width: 768px) {
-  .post-preview .post-title {
-    font-size: 36px;
-  }
-}
 
 /* --- Tags --- */
 
@@ -707,11 +675,6 @@ footer div.disclaimer {
   margin-bottom: 0;
 }
 
-@media only screen and (min-width: 768px) {
-  .post-preview .blog-tags {
-    margin-top: 10px;
-  }
-}
 
 @media only screen and (max-width: 500px) {
   .post-image, .post-image img {
@@ -771,27 +734,29 @@ footer div.disclaimer {
   color: #FFF;
   text-shadow: 1px 1px 3px #000;
 }
+
 .intro-header .post-heading h1 {
+  font-family: 'Playfair Display', serif;
+  font-style: normal;
+  font-size: 36px;
+  font-weight: 400;
+  color: #c58a24;
   margin-top: 0;
-  font-size: 48px;
 }
 .intro-header .page-heading .page-subheading,
 .intro-header .page-heading .news-subheading,
 .intro-header .post-heading .post-subheading {
-  font-size: 36px;
+  font-family: 'Raleway', serif;
+  font-style: normal;
+  font-size: 24px;
+  font-weight: 700;
   color: #591920;
   line-height: 1.1;
   display: block;
-  font-family: 'Lato', sans-serif;
-  font-weight: 300;
   margin: 10px 0 0;
 }
 .intro-header .post-heading .post-subheading {
   margin-bottom: 20px;
-}
-.intro-header.big-img .page-heading .page-subheading,
-.intro-header.big-img .post-heading .post-subheading {
-  font-weight: 400;
 }
 .intro-header.big-img .page-heading hr {
   box-shadow: 1px 1px 3px #000;
@@ -822,17 +787,6 @@ footer div.disclaimer {
   .intro-header.big-img .page-heading,
   .intro-header.big-img .post-heading  {
     padding: 150px 0;
-  }
-  .intro-header .page-heading h1,
-  .intro-header .tags-heading h1,
-  .intro-header .categories-heading h1 {
-    font-size: 80px;
-  }
-  .intro-header .post-heading h1 {
-    font-size: 50px;
-  }
-  .intro-header.big-img .img-desc {
-    font-size: 14px;
   }
 }
 
@@ -1138,7 +1092,7 @@ h4.see-also {
   left: 0;
   width: 100vw;
   height: 100vh;
-  z-index: -1;
+  z-index: 999;
   pointer-events: none;
   overflow: hidden;
 
@@ -1171,4 +1125,65 @@ h4.see-also {
 @keyframes spin {
   0% { transform: rotate(0deg); }
   100% { transform: rotate(360deg); }
+}
+
+
+
+
+/* --- Button --- */
+.markdown-btn {
+  display: inline-block;
+  width: 100%;
+  padding: 0.75em 1.5em;
+  border: none;
+  border-radius: 6px;
+  background-color: #591920;
+  color: #fff;
+  font-size: 20px;
+  font-weight: 600;
+  font-family: 'Lato', sans-serif;
+  text-align: center;
+  text-decoration: none;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+  transition: all 0.2s ease-in-out;
+  cursor: pointer;
+}
+
+.markdown-btn:hover,
+.markdown-btn:focus {
+  background-color: #c58a24;
+  color: #fff;
+  text-decoration: underline;
+  transform: translateY(-1px);
+  box-shadow: 0 6px 12px -2px rgba(0, 0, 0, 0.15);
+}
+
+
+
+
+
+/* --- Feature Card Shortcode --- */
+.feature-card {
+  background-color: #fdfdfd;
+  padding: 24px;
+  margin: 20px 0;
+  border-radius: 8px;
+  border: 1px solid rgba(0, 0, 0, 0.05);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+/* Optional: Slight hover effect to make it feel interactive */
+.feature-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.1);
+}
+
+/* Dark mode support */
+@media (prefers-color-scheme: dark) {
+  .feature-card {
+    background-color: #222;
+    border-color: #333;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+  }
 }
