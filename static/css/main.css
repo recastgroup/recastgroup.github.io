@@ -692,8 +692,9 @@ footer div.disclaimer {
 
 
 
-/* --- Post and page headers --- */
 
+
+/* --- Post and page headers --- */
 .intro-header {
   margin: 80px 0 20px;
   position: relative;
@@ -834,8 +835,11 @@ footer div.disclaimer {
   border-bottom-left-radius: 5px;
 }
 
-/* --- Pager --- */
 
+
+
+
+/* --- Pager --- */
 .pager li a {
   font-family: 'Lato', sans-serif;
   text-transform: uppercase;
@@ -884,8 +888,11 @@ h4.panel-title > span.badge {
   }
 }
 
-/* --- Tables --- */
 
+
+
+
+/* --- Tables --- */
 table {
   padding: 0;
 }
