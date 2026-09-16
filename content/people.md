@@ -20,6 +20,7 @@ We are a group of researchers spanning numerous industries and sectors, but all 
   {{< figure src="img/team/damilare-ajayi.jpg" caption="Damilare Ajayi" >}}
   {{< figure src="img/team/jackson-anderson.png" caption="Jackson Anderson" >}}
   {{< figure src="img/team/hilal-ayan-karabatman.jpg" caption="Hilal Ayan-Karabatman" >}}
+  {{< figure src="img/team/nina-davis.png" caption="Nina Davis" >}}
   {{< figure src="img/team/wes-dorce.png" caption="Wes Dorce" >}}
   {{< figure src="img/team/rob-duarte.jpg" caption="Rob Duarte" >}}
   {{< figure src="img/team/jean-baptiste-mbanzabugabo.jpg" caption="Jean Baptiste Mbanzabugabo" >}}
@@ -32,6 +33,7 @@ We are a group of researchers spanning numerous industries and sectors, but all 
 - [Damilare Ajayi](https://www.linkedin.com/in/ajayidamilarefelix/)
 - [Jackson Anderson](https://www.linkedin.com/in/jackson-p-anderson/)
 - [Hilal Ayan-Karabatman](https://www.linkedin.com/in/hilal-ayan-karabatman-602196190/)
+- [Nina Davis](https://www.linkedin.com/in/ninandavis/)
 - [Wes Dorce](https://www.linkedin.com/in/wes-dorce-2358881a8/)
 - [Rob Duarte](https://cfa.fsu.edu/people/rob-duarte/)
 - [Jean Baptiste Mbanzabugabo](https://www.linkedin.com/in/jean-baptiste-mbanzabugabo-946b50a4/)
